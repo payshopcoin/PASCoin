@@ -2,7 +2,7 @@
 PoW Erc20 Token Mining
 
 Livecoin Exchange : https://www.livecoin.net/en/trading/PAS_ETH
-                    https://www.livecoin.net/en/trading/PAS_BTC
+https://www.livecoin.net/en/trading/PAS_BTC
 
 For Solo mining guide is following.Pool coming soon.
 
